@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const SVGNS = 'http://www.w3.org/2000/svg';","map":{"version":3,"sources":["/tmp/drawboard-light/node_modules/roughjs/bin/core.js"],"names":["SVGNS"],"mappings":"AAAA,OAAO,MAAMA,KAAK,GAAG,4BAAd","sourcesContent":["export const SVGNS = 'http://www.w3.org/2000/svg';\n"]},"metadata":{},"sourceType":"module"}
